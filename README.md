@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Eric
 
 <h3>About Me:</h3>
-<p>Master Student @Duke University, and enjoyer of programming, DJI drone, Running and Fitness.</p>
+<p>Master Student @Duke University, and enjoyer of programming, DJI drone, Movies and Fitness.</p>
 
 - 🔭 Looking for Full-time positions, Willing to relocate!
 
