@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 💼 On LinkedIn @ **[Eric Yin]([https://www.linkedin.com/in/caseypei/](https://www.linkedin.com/in/shanghui-yin-531406175/))**
+- 💼 On LinkedIn @ **[Eric Yin](https://www.linkedin.com/in/shanghui-yin-531406175/)**
 
 <h3> ⚡ Fun Fact:</h3>
 
