@@ -3,8 +3,6 @@
 <h3>About Me:</h3>
 <p>Master Student @Duke University, and enjoyer of programming, DJI drone, Movies and Fitness.</p>
 
-- 🔭 Looking for Full-time positions, Willing to relocate!
-
 - 🌱 Currently learning cloud computing (Azure, AWS) :o
 
 - 💬 Ask me about Everything on Apple Products.
